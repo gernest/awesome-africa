@@ -39,4 +39,5 @@ Curated list of awesome projects made in Africa
 
 # Python
 * [github africa](https://github.com/codeafrica/github-africa) :GitHub Africa Usage
+* [meza](https://github.com/reubano/meza) :A Python toolkit for processing tabular data
 * [vimi](https://github.com/praekelt/vumi) : Messaging engine for the delivery of SMS, Star Menu and chat messages to diverse audiences in emerging markets and beyond.
