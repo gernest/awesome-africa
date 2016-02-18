@@ -23,6 +23,7 @@ Curated list of awesome projects made in Africa
 
 # Java
 * [SMSSync](https://github.com/ushahidi/SMSSync) :SMS gateway for Android powered phones
+* [kasahorow-Keyboard-For-Android](https://github.com/eyedol/kasahorow-Keyboard-For-Android) kasahorow Keyboard For Android
 
 # PHP
 * [pesaPI](https://github.com/pluspeople/pesaPi) :PesaPI is an unofficial open source API for mobile money systems, released under the BSD(lite) license.
