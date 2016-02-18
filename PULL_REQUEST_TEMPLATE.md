@@ -1,6 +1,6 @@
 
 # Description
 
-8 Author 
+# Author 
 
 # African country that the project originates from
