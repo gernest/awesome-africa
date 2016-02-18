@@ -10,6 +10,7 @@ Curated list of awesome projects made in Africa
   - [ Python ](#python)
 
 # Go
+* [utron](https://github.com/gernest/utron) :A lightweight MVC framework
 
 # Javascript
 
