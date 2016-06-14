@@ -28,6 +28,7 @@ Curated list of awesome projects made in Africa
 # Javascript
 
 * [rapidpro](https://github.com/rapidpro/rapidpro) :RapidPro allows organizations to visually build scalable interactive messaging applications.
+* [redux-saga](https://github.com/yelouafi/redux-saga) :An alternative side effect model for Redux apps
 
 
 # PHP
