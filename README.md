@@ -29,6 +29,7 @@ Curated list of awesome projects made in Africa
 
 * [rapidpro](https://github.com/rapidpro/rapidpro) :RapidPro allows organizations to visually build scalable interactive messaging applications.
 * [redux-saga](https://github.com/yelouafi/redux-saga) :An alternative side effect model for Redux apps
+* [project-mulla](https://github.com/kn9ts/project-mulla) :Talk to MPESA API via a REST API. Bringing the MPESA G2 API to the 21st century
 
 
 # PHP
