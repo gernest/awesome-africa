@@ -37,6 +37,7 @@ Curated list of awesome projects made in Africa
 * [oauth-server](https://github.com/uafrica/oauth-server) :A plugin for implementing an OAuth2 server in CakePHP 3
 * [laravel-mentions](https://github.com/unicodeveloper/laravel-mentions) :Laravel 5 Package for enabling facebook type of mentions in your application
 * [pesaPI](https://github.com/pluspeople/pesaPi) :PesaPI is an unofficial open source API for mobile money systems, released under the BSD(lite) license.
+* [katana](https://github.com/themsaid/katana): Laravel static site/blog generator with markdown support.
 
 
 
