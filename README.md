@@ -40,6 +40,8 @@ Curated list of awesome projects made in Africa
 * [katana](https://github.com/themsaid/katana): Laravel static site/blog generator with markdown support.
 * [laravel-langman](https://github.com/themsaid/laravel-langman):
 Language files manager in your artisan console.
+* [laravel-mail-preview](https://github.com/themsaid/laravel-mail-preview): 
+Mail driver that saves sent mail to disk.
 
 
 
